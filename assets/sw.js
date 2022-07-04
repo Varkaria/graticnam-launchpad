@@ -1,7 +1,7 @@
 let cacheName = 'v1'
 let filesToCache = [
   '/index.html',
-  '/assets/sound/katinam.wav',
+  '/assets/sound/katiknam.mp3',
 ]
 
 self.addEventListener('install', (evt) => {
