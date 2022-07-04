@@ -1,6 +1,6 @@
 {
-  "thaiLover": true,
-  "veryHoly": true,
+  "thaiLover": false,
+  "veryHoly": false,
   "ignore": [
       "/^\\.monk/",
       "/^.gitingore/",
