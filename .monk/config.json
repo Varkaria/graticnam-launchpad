@@ -1,0 +1,11 @@
+{
+  "thaiLover": true,
+  "veryHoly": true,
+  "ignore": [
+      "/^\\.monk/",
+      "/^.gitingore/",
+      "/^readme.md'/",
+      "/^.prettierignore/",
+      "/^.*.mp3'/"
+  ]
+}
